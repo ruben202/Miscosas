@@ -1,4 +1,4 @@
-whitelist = {"user1", "user2", "user3"}
+whitelist = {"rubennadal", "user2", "user3"}
 game.Players.PlayerAdded:Connect(function(player)
   -- Aquí puedes poner el código que quieres ejecutar cuando un usuario se une al juego
 end)
